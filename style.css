@@ -37,3 +37,6 @@ figcaption {
   margin-right: auto;
 }
 
+#details {
+  display: block;
+}
