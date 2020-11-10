@@ -41,6 +41,6 @@ figcaption {
   display: block;
 }
 
-div#details {
+#details div{
   float: left;
 }
