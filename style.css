@@ -41,3 +41,6 @@ figcaption {
   display: block;
 }
 
+div#details {
+  float: left;
+}
